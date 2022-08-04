@@ -18,8 +18,7 @@ weepay woocomerce is the simple and lightweight implementation of [weepay.co](ht
 * Find weepay extension and install the module. Then click gravity form settings payment subtab.
 * Get your api keys from weepay merchant [backend](https://www.pos.weepay.co/)
 * Select "Enabled" to activate weepay plugin for your weepay module.
-* User on checkout page will find weepay payment extension in payment methods.
-* In order details on admin interface, find "weepay Payment Module" tab in "Order History" section.
+
 
 #### Notice :
 * PHP 5.6 and later.
