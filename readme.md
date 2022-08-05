@@ -1,7 +1,7 @@
 # weepay Gravity Form Payment Module
 ![](https://service.weepay.co/form/normal.svg)
 
-weepay woocomerce is the simple and lightweight implementation of [weepay.co](https://www.weepay.co) payment service for woocommerce. It's licensed under LGPL v3.0 license, therefore feel free to use it in any project or modify the source code.
+weepay gravity form  is the simple and lightweight implementation of [weepay.co](https://www.weepay.co) payment service for gravity form . It's licensed under LGPL v3.0 license, therefore feel free to use it in any project or modify the source code.
 
 # Getting Started
 
